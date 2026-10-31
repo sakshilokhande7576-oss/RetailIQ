@@ -189,23 +189,28 @@ The project includes:
 
 ### 1. Executive Command Center
 
-![Executive Dashboard](01-executive-dashboard.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-31 152733" src="https://github.com/user-attachments/assets/ae5bb38b-e711-4ad7-9ba1-37e23503cdf0" />
+
 
 ### 2. Sales & Revenue Intelligence
 
-![Sales & Revenue](02-sales-revenue.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-31 152948" src="https://github.com/user-attachments/assets/3163cac4-8117-4b73-a16d-f877f1b0adb2" />
+
 
 ### 3. Product & Category Intelligence
 
-![Product & Category](03-product-category.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-31 153053" src="https://github.com/user-attachments/assets/da003151-69a7-4002-938c-7560863095b9" />
+
+
 
 ### 4. Customer & RFM Intelligence
 
-![Customer Intelligence](04-customer-intelligence.png)
+<img width="1920" height="1080" alt="Screenshot 2026-10-31 153136" src="https://github.com/user-attachments/assets/21b0009f-d030-4886-8efc-c329dbd7a79e" />
+
 
 ### 5. Business Insights & Recommendations
 
-![Business Insights](05-business-insights.png)
+![Uploading Screenshot 2026-10-31 153210.png…]()
 
 ## Author
 
