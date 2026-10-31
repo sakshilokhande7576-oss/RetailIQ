@@ -210,7 +210,9 @@ The project includes:
 
 ### 5. Business Insights & Recommendations
 
-![Uploading Screenshot 2026-10-31 153210.png…]()
+<img width="1920" height="1080" alt="Screenshot 2026-10-31 153210" src="https://github.com/user-attachments/assets/cf3741b5-42a2-46aa-88c3-593865dca589" /> 
+
+
 
 
 ## Author
