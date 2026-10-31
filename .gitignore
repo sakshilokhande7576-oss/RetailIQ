@@ -1,0 +1,30 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+
+# Large customer-level generated report
+reports/customer_intelligence/customer_metrics.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter temporary notebooks
+Untitled*.ipynb
+
+# Backup scripts
+*_backup*.py
+*_before_*.py
+dashboard_app_v1_backup.py
+
+# Environment and secrets
+.venv/
+venv/
+.env
+.env.*
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/

@@ -1,0 +1,12 @@
+﻿Metric,Value
+Historical snapshot date,2018-08-29
+Delivered orders analyzed,96478
+Unique customers analyzed,93358
+Repeat customers (2+ delivered orders),2801
+Repeat customer rate (%),3.0
+Average observed customer revenue (R$),141.62
+Median delivered orders per customer,1.0
+Customers inactive more than 90 days,74838
+Customers inactive more than 180 days,55132
+Total observed item revenue (R$),13221498.11
+Definition,Historical inactivity proxy; not verified present-day churn or predictive CLV.

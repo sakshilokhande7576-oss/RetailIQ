@@ -1,0 +1,9 @@
+﻿Check,Value
+Source delivered rows,96478
+Analyzed delivered orders,96478
+Unique customer identities,93358
+Rows in customer metrics,93358
+Missing customer_unique_id after join,0
+Missing revenue after join (before filtering),775
+Negative observed customer revenue,0
+Duplicate customer rows in output,0
